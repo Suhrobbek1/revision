@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+}
+div {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin-right: 40px;
+}
